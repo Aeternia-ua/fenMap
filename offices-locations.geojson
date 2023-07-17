@@ -52,7 +52,28 @@
     "properties": {
     "IdStudenta":2562,
     "Facultet":"252 NW 29th St Miami, FL 33127 BOSTON 444 Somerville Ave, Somerville, MA 02143 - USA",
-    "Specialnist":"Miami Office",
+    "Specialnist":"Miami Boston Office",
+    "Osvitnia Programa":"",
+    "Kurs":4,
+    "Grupa":"2015",
+    "Programa":"1. Програма підготовки бакалавра",
+    "Gromadianstvo":"Україна",
+    "Oblast":"ЛЬВІВСЬКА",
+    "MistoSelo":"с.Коросне",
+    "Rayon":"Перемишлянський",
+    "Stat":"чол"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.693151684495789,40.48891180919463 ]
+    },
+    "properties": {
+    "IdStudenta":2562,
+    "Facultet":"MADRID Manuel Tovar 49, 28034",
+    "Specialnist":"Madrid Office",
     "Osvitnia Programa":"",
     "Kurs":4,
     "Grupa":"2015",
