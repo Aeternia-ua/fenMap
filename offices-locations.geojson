@@ -42,6 +42,27 @@
     "Rayon":"Перемишлянський",
     "Stat":"чол"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.20039946099611,25.803669336225113 ]
+    },
+    "properties": {
+    "IdStudenta":2562,
+    "Facultet":"175 SW 7TH ST STE 1712, Miami, FL 33130",
+    "Specialnist":"Miami Office",
+    "Osvitnia Programa":"",
+    "Kurs":4,
+    "Grupa":"2015",
+    "Programa":"1. Програма підготовки бакалавра",
+    "Gromadianstvo":"Україна",
+    "Oblast":"ЛЬВІВСЬКА",
+    "MistoSelo":"с.Коросне",
+    "Rayon":"Перемишлянський",
+    "Stat":"чол"
+    }
   }
 ]
 }
